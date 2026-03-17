@@ -5,6 +5,13 @@
 
 ---
 
+## 🏅 Certifications & Skills
+
+![CCNA](https://img.shields.io/badge/CCNA-Cisco-blue?style=for-the-badge&logo=cisco)
+![CCNP](https://img.shields.io/badge/CCNP-Cisco-darkblue?style=for-the-badge&logo=cisco)
+![Palo Alto](https://img.shields.io/badge/Palo%20Alto-Firewall-orange?style=for-the-badge)
+![Cisco ASA](https://img.shields.io/badge/Cisco%20ASA-Firewall-lightgrey?style=for-the-badge)
+
 ## 🚀 About Me
 - 💡 Strong foundation in networking concepts
 - 📡 Hands-on experience with routing protocols and switching
