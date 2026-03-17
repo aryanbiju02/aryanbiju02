@@ -9,9 +9,17 @@
 
 ## 🛠️ Networking & Security Skills
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="60" alt="Cisco" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Cisco_certified_network_professional_logo.png" width="80" alt="CCNP" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Palo_Alto_Networks_logo.svg" width="120" alt="Palo Alto" />
+## 🔥 My Stack
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="60" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Cisco_certified_network_professional_logo.png" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Palo_Alto_Networks_logo.svg" width="120" />
+</p>
+
+<p>
+  Cisco Routing & Switching | CCNP | Palo Alto Firewall
+</p>
 
 
 ## 🚀 About Me
