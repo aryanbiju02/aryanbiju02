@@ -7,10 +7,12 @@
 
 ## 🏅 Certifications & Skills
 
-![CCNA](https://img.shields.io/badge/CCNA-Cisco-blue?style=for-the-badge&logo=cisco)
-![CCNP](https://img.shields.io/badge/CCNP-Cisco-darkblue?style=for-the-badge&logo=cisco)
-![Palo Alto](https://img.shields.io/badge/Palo%20Alto-Firewall-orange?style=for-the-badge)
-![Cisco ASA](https://img.shields.io/badge/Cisco%20ASA-Firewall-lightgrey?style=for-the-badge)
+## 🛠️ Networking & Security Skills
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" width="60" alt="Cisco" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Cisco_certified_network_professional_logo.png" width="80" alt="CCNP" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Palo_Alto_Networks_logo.svg" width="120" alt="Palo Alto" />
+
 
 ## 🚀 About Me
 - 💡 Strong foundation in networking concepts
