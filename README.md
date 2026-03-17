@@ -1,1 +1,2 @@
-
+# Hi, I'm ARYAN B 
+👋 ### About Me - 🔭 Currently working on **[your project]** - 🌱 Learning **[technology/skill]** - 💬 Ask me about **[your expertise]** - 📫 Reach me at **[your email or link]** - ⚡ Fun fact: [something interesting] ### 🛠 Tech Stack ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ### 📊 GitHub Stats ![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
